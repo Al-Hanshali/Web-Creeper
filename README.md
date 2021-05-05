@@ -56,7 +56,9 @@ Web Creeper is a web crawler that basically copies visited sites for later proce
 # Want to use this repository?
 
 git clone https://github.com/hanshali/Web-Creeper
+
 cd Web-Creeper
+
 Make
 
 # credits
