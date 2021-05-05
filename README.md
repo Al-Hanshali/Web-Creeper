@@ -1,15 +1,20 @@
 # Web-Creeper
-Web Creeper:
 Web Creeper is a web crawler that basically copies visited sites for later processing by a search engine. Its main purpose is web indexing. The goal of this project is to create a multi-threaded web crawler.
 
 Flowchart:
- 
+ ![image](https://user-images.githubusercontent.com/62112262/117217910-d810aa00-adc7-11eb-87f8-d7aa2e69bd9f.png)
+
 
 Table of contents:
+
 •	Web Creeper’s Components
+
 •	How to Creep the Web
+
 •	Future Developments
+
 •	PowerPoint
+
 •	How to Use this Repository
 
 Web Creeper’s Components:
