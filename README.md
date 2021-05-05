@@ -22,7 +22,7 @@ Web Creeper is a web crawler that basically copies visited sites for later proce
 •	How to Use this Repository
 
 
-# Web Creeper’s Components
+# Web Creeper’s components
 
 •	Creeper Initializer: Gets links from a file
 
@@ -36,14 +36,14 @@ Web Creeper is a web crawler that basically copies visited sites for later proce
 
 
 
-# How to Creep the Web
+# How to creep the web
 
 •	Compiling using make assigns parameters to default. Such parameters would be assigned in the following manner: maxlinks = 100 pagelimit = 100 threads = 10. You can change the default values in Creeper.h  
 
 •	You can assign parameters different arguments. E.g:  make maxlinks = 50 pagelimit = 90 threads=20
 
 
-# Future Developments
+# Future developments
 
 •	Implement a PageRank algorithm
 
@@ -53,13 +53,13 @@ Web Creeper is a web crawler that basically copies visited sites for later proce
 # PowerPoint
 
 
-# Want to Use this Repository?
+# Want to use this repository?
 
 git clone https://github.com/hanshali/Web-Creeper
 cd Web-Creeper
 Make
 
-# Credits
+# credits
 
 •	Dr. Lin Chase
 
