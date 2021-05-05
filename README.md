@@ -1,5 +1,7 @@
 # Web-Creeper
-Web Creeper is a web crawler that basically copies visited sites for later processing by a search engine. Its main purpose is web indexing. The goal of this project is to create a multi-threaded web crawler.
+Web Creeper is a web crawler that basically copies visited sites for later processing by a search engine. Its main purpose is web indexing.
+
+The goal of this project is to create a multi-threaded web crawler.
 
 
 # Flowchart
@@ -38,7 +40,11 @@ Web Creeper is a web crawler that basically copies visited sites for later proce
 
 # How to creep the web
 
-•	Compiling using make assigns parameters to default. Such parameters would be assigned in the following manner: maxlinks = 100 pagelimit = 100 threads = 10. You can change the default values in Creeper.h  
+•	Compiling using make assigns parameters to default. Such parameters would be assigned in the following manner:
+
+  
+  maxlinks = 100 pagelimit = 100 threads = 10.
+  
 
 •	You can assign parameters different arguments. E.g:  make maxlinks = 50 pagelimit = 90 threads=20
 
@@ -57,7 +63,7 @@ Web Creeper is a web crawler that basically copies visited sites for later proce
 
 git clone https://github.com/hanshali/Web-Creeper
 
-cd Web-Creeper
+cd  Web-Creeper
 
 Make
 
