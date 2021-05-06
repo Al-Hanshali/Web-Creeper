@@ -56,8 +56,6 @@ The goal of this project is to create a multi-threaded web crawler.
 •	Create a search engine that uses the indexed and ranked websites
 
 
-# PowerPoint
-
 
 # Want to use this repository?
 
