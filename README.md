@@ -19,8 +19,6 @@ The goal of this project is to create a multi-threaded web crawler.
 
 •	Future Developments
 
-•	PowerPoint
-
 •	How to Use this Repository
 
 
@@ -65,7 +63,7 @@ cd  Web-Creeper
 
 Make
 
-# credits
+# Credits
 
 •	Dr. Lin Chase
 
