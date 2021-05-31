@@ -57,11 +57,11 @@ The goal of this project is to create a multi-threaded web crawler.
 
 # Want to use this repository?
 
-* git clone https://github.com/hanshali/Web-Creeper
+ git clone https://github.com/hanshali/Web-Creeper
 
-* cd  Web-Creeper
+ cd  Web-Creeper
 
-* Make
+ Make
 
 # Credits
 
